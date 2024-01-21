@@ -3,17 +3,27 @@ body{
 }
 
 nav{
-color: #40E0D0;
+
 }
 
 h1{
     color: #50C878;
+    text-align: center;
 }
 
 h2{
     color: #50C878;
+    text-align: center;
 }
 
+/* id selectors */
+
 #about{
-    width: 70%;
+    ;
+}
+
+/* class selectors */
+
+.navlink{
+    color: #40E0D0;
 }
